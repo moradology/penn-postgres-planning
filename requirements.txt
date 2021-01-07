@@ -39,7 +39,7 @@ Jinja2==2.10
 jmespath==0.9.3
 js.backbone==1.0.0
 js.underscore==1.5.2
-lxml==3.3.5
+lxml==4.6.2
 Mako==1.0.0
 MarkupSafe==1.0
 mccabe==0.3
