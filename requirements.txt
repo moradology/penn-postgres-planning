@@ -74,7 +74,7 @@ PyYAML==3.13
 pyzmq==14.3.1
 requests==2.19.1
 requests-toolbelt==0.8.0
-rsa==3.1.2
+rsa==4.1
 s3transfer==0.1.13
 six==1.10.0
 sniffer==0.3.2
