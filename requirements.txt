@@ -70,7 +70,7 @@ pytest-xdist==1.10
 python-dateutil==2.4.2
 python-termstyle==0.1.10
 pytools==2014.3
-PyYAML==3.13
+PyYAML==5.4
 pyzmq==14.3.1
 requests==2.19.1
 requests-toolbelt==0.8.0
