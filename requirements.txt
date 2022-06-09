@@ -13,7 +13,7 @@ chainer==2.0.2
 chardet==3.0.4
 click==3.3
 colorama==0.2.5
-cookiecutter==1.0.0
+cookiecutter==2.1.1
 cov-core==1.14.0
 coverage==3.7.1
 cryptography==2.3.1
