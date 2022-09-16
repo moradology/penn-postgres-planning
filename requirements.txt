@@ -40,7 +40,7 @@ jmespath==0.9.3
 js.backbone==1.0.0
 js.underscore==1.5.2
 lxml==3.3.5
-Mako==1.0.0
+Mako==1.2.2
 MarkupSafe==1.0
 mccabe==0.3
 memory-profiler==0.32
