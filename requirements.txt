@@ -54,7 +54,7 @@ paramiko==1.15.2
 pbr==3.1.1
 pep8==1.6.2
 Pillow==4.2.1
-protobuf==3.4.0
+protobuf==3.18.3
 psutil==2.2.1
 py==1.4.23
 pyasn1==0.1.7
